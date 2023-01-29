@@ -1,0 +1,226 @@
+[
+  {
+    "name": "carrier_01",
+    "left": 0.0,
+    "top": 0.0,
+    "right": 128.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_02",
+    "left": 128.0,
+    "top": 0.0,
+    "right": 256.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_03",
+    "left": 256.0,
+    "top": 0.0,
+    "right": 384.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_04",
+    "left": 384.0,
+    "top": 0.0,
+    "right": 512.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_05",
+    "left": 512.0,
+    "top": 0.0,
+    "right": 640.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_06",
+    "left": 640.0,
+    "top": 0.0,
+    "right": 768.0,
+    "bottom": 128.0
+  },
+  {
+    "name": "carrier_07",
+    "left": 0.0,
+    "top": 128.0,
+    "right": 128.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_08",
+    "left": 128.0,
+    "top": 128.0,
+    "right": 256.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_09",
+    "left": 256.0,
+    "top": 128.0,
+    "right": 384.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_10",
+    "left": 384.0,
+    "top": 128.0,
+    "right": 512.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_11",
+    "left": 512.0,
+    "top": 128.0,
+    "right": 640.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_12",
+    "left": 640.0,
+    "top": 128.0,
+    "right": 768.0,
+    "bottom": 256.0
+  },
+  {
+    "name": "carrier_13",
+    "left": 0.0,
+    "top": 256.0,
+    "right": 128.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_14",
+    "left": 128.0,
+    "top": 256.0,
+    "right": 256.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_15",
+    "left": 256.0,
+    "top": 256.0,
+    "right": 384.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_16",
+    "left": 384.0,
+    "top": 256.0,
+    "right": 512.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_17",
+    "left": 512.0,
+    "top": 256.0,
+    "right": 640.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_18",
+    "left": 640.0,
+    "top": 256.0,
+    "right": 768.0,
+    "bottom": 384.0
+  },
+  {
+    "name": "carrier_19",
+    "left": 0.0,
+    "top": 384.0,
+    "right": 128.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_20",
+    "left": 128.0,
+    "top": 384.0,
+    "right": 256.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_21",
+    "left": 256.0,
+    "top": 384.0,
+    "right": 384.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_22",
+    "left": 384.0,
+    "top": 384.0,
+    "right": 512.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_23",
+    "left": 512.0,
+    "top": 384.0,
+    "right": 640.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_24",
+    "left": 640.0,
+    "top": 384.0,
+    "right": 768.0,
+    "bottom": 512.0
+  },
+  {
+    "name": "carrier_25",
+    "left": 0.0,
+    "top": 512.0,
+    "right": 128.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_26",
+    "left": 128.0,
+    "top": 512.0,
+    "right": 256.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_27",
+    "left": 256.0,
+    "top": 512.0,
+    "right": 384.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_28",
+    "left": 384.0,
+    "top": 512.0,
+    "right": 512.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_29",
+    "left": 512.0,
+    "top": 512.0,
+    "right": 640.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_30",
+    "left": 640.0,
+    "top": 512.0,
+    "right": 768.0,
+    "bottom": 640.0
+  },
+  {
+    "name": "carrier_31",
+    "left": 0.0,
+    "top": 640.0,
+    "right": 128.0,
+    "bottom": 768.0
+  },
+  {
+    "name": "carrier_32",
+    "left": 128.0,
+    "top": 640.0,
+    "right": 256.0,
+    "bottom": 768.0
+  }
+]
