@@ -9,9 +9,6 @@ public:
 
 	Character(Vector2 aPosition, Vector2 aVelocity, bool live, X::TextureId textureId, int numInArray);
 
-
-
-
 	Vector2 getPosition() const;
 	void setPosition(Vector2 newPosition);
 	Vector2 getVelocity() const;

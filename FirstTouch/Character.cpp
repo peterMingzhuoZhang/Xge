@@ -1,12 +1,13 @@
 #include "Character.h"
 
 Character::Character()
-	:position(Vector2{ 0.0f,0.0f })
+	: position(Vector2{ 0.0f,0.0f })
 	, velocity(Vector2{ 0.0f,0.0f })
 	, isAlive(true)
 	, texture(NULL)
 	, id(0)
 	, distroiable(false) {
+
 
 }
 
